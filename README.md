@@ -2,7 +2,7 @@
 
 <p align="center">
   PyTorch implementation of <a href="https://arxiv.org/pdf/1609.04802">"Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial
-Network"</a> trained on the <a href="[https://www.kaggle.com/competitions/imagenet-object-localization-challenge/data](https://www.kaggle.com/competitions/imagenet-object-localization-challenge/data)">ImageNet 100K Subset</a> dataset
+Network"</a> trained on the <a href="https://www.kaggle.com/competitions/imagenet-object-localization-challenge/data">ImageNet 100K Subset</a> dataset
 </p>
 
 # Model Architecture
@@ -13,7 +13,7 @@ The model is built using the SRResNet and SRGAN architecture described in the pa
 
 ## Training Data
 
-The model is trained on the <a href="[https://www.kaggle.com/competitions/imagenet-object-localization-challenge/data](https://www.kaggle.com/competitions/imagenet-object-localization-challenge/data)">ImageNet 100K Subset</a> datatset available on Kaggle
+The model is trained on the <a href="https://www.kaggle.com/competitions/imagenet-object-localization-challenge/data">ImageNet 100K Subset</a> datatset available on Kaggle
 
 ## Super Resolution Results
 
